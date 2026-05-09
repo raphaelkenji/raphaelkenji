@@ -1,10 +1,10 @@
 <h2 align="center">Hi, I'm Raphael Kenji 👋</h2>
 
-Computer science student at CEFET/RJ, backend developer, and all-around code and game enthusiast.
+<p align="center">Computer science student at CEFET/RJ, backend developer, and all-around code and game enthusiast.</p>
 
-I'll try writing code in a way that makes it look like I know what I'm doing, but don't be fooled. I have no idea what I'm doing.
+<p align="center">I'll try writing code in a way that makes it look like I know what I'm doing, but don't be fooled. I have no idea what I'm doing.</p>
 
-<b>Currently diving into:</b> observability, performance tuning and infrastructure 🔧
+<p align="center"><b>Currently diving into:</b> observability, performance tuning and infrastructure 🔧</p>
 
 ---
 
