@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.pt-BR.md">
+  <a href="./README.pt-br.md">
     <img src="https://img.shields.io/badge/Português-PT--BR-009739?style=flat-square" alt="Português"/>
   </a>
   <a href="./README.md">
